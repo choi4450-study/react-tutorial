@@ -1,0 +1,47 @@
+{
+  "name": "react-tutorial",
+  "version": "0.1.0",
+  "description": "리액트 튜토리얼",
+  "main": "dist/index.html",
+  "devDependencies": {
+    "babel-preset-es2015-rollup": "^1.1.1",
+    "del": "^2.2.1",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^4.1.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rollup": "^2.1.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-sync": "^0.1.4",
+    "gulp-util": "^3.0.7",
+    "rollup": "^0.34.1",
+    "rollup-plugin-babel": "^2.6.1",
+    "rollup-plugin-sourcemaps": "^0.3.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/choi4450-study/react-tutorial.git"
+  },
+  "author": {
+    "name": "Gyumin Choi",
+    "email": "choegyumin@gmail.com",
+    "url": "http://www.choigyumin.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/choi4450-study/react-tutorial/issues"
+  },
+  "homepage": "https://github.com/choi4450-study/react-tutorial#readme",
+  "keywords": [
+    "chiQuery",
+    "jQuery"
+  ],
+  "maintainers": [
+    {
+      "name": "Gyumin Choi",
+      "email": "choegyumin@gmail.com"
+    }
+  ]
+}
